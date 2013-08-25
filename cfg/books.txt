@@ -1,0 +1,10 @@
+15 - Evans. Domain-Driven Design: Tackling Complexity in the Heart of Software. Ч Addison-
+Wesley, 2004.
+ нига посв€щена разработке моделей предметной области Ч одному из са-
+мых важных и самых сложных аспектов разработки корпоративных прило-
+жений.
+
+17 - Fowler. Analysis Patterns. Ч Addison-Wesley, 1997.
+“иповые решени€ дл€ моделировани€ предметной области.
+
+http://habrahabr.ru/blogs/data_mining/101338/
